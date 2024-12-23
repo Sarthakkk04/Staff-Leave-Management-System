@@ -6,18 +6,30 @@
 
 <h2>Project Modules</h2>
 
-<p>The modules involved are:                       
-Administration
-Staff
-Admin Module details
-Admin can add a Staff and also update the Staff info.
-Admin can also manage the leave application (approve and not approve).
-Whenever a Staff applies for leave admin will get a notification.
-Admin can change own password after login.
-Admin can also view admin dashboard.
-Staff Module
-The Staff can log in with a valid email and password.
-Update his/her profile
-Applied for leave
-View the leave history
-Change his/ her password</p>
+<h5>The modules involved are:</h5>                      
+<ul>
+  <li>Administration</li>
+  <li>Staff</li>
+</ul>
+
+<br>
+
+<h5>Admin Module details:</h5>
+<ul>
+  <li>Admin can add a Staff and also update the Staff info.</li>
+  <li>Admin can also manage the leave application (approve & not approve).</li>
+  <li>Whenever a Staff applies for leave admin will get a notification.</li>
+  <li>Admin can change own password after login.</li>
+  <li>Admin can also view admin dashboard.</li>
+</ul>  
+
+<br>
+
+<h5>Staff Module</h5>
+<ul>
+  <li>The Staff can log in with a valid email and password.</li>
+  <li>Update his/her profile</li>
+  <li>Applied for leave</li>
+  <li>View the leave history</li>
+  <li>Change his/ her password</li>
+</ul>
